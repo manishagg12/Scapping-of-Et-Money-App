@@ -1,1 +1,2 @@
 # Scapping-of-Et-Money-App
+This is a Assigment of the scraping of ET Money Application in which i have extracted the top Mutual Funds with the Name, Size and Rating. This project is build in Python Language in which i have used the following library of python:- 1-pandas 2-Beautifulsoup 3-request I have made 2 csv file for the extracting of the data in MS Excel. I have attached all the files and program in the project.
